@@ -39,7 +39,7 @@ export default function SelectPortfolio() {
 
         <SelectTrigger className="w-[350px] h-16 rounded-full bg-zinc-900 border border-cyan-500 text-white text-xl">
 
-          <SelectValue placeholder="Which Portfolio You Want?" />
+          <SelectValue placeholder="Interns" />
 
         </SelectTrigger>
 
